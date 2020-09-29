@@ -1,0 +1,7 @@
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\LeyDeCoulomb\bin\Debug\LeyDeCoulomb.exe.config
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\LeyDeCoulomb\bin\Debug\LeyDeCoulomb.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\LeyDeCoulomb\bin\Debug\LeyDeCoulomb.pdb
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\LeyDeCoulomb\obj\Debug\LeyDeCoulomb.csprojAssemblyReference.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\LeyDeCoulomb\obj\Debug\LeyDeCoulomb.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\LeyDeCoulomb\obj\Debug\LeyDeCoulomb.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\LeyDeCoulomb\obj\Debug\LeyDeCoulomb.pdb
